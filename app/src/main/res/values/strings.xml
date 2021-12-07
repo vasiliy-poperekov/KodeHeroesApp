@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">KodeHeroesApp</string>
+    <string name="also_known_as">Also known as: </string>
+    <string name="birthplace">Birthplace: </string>
+    <string name="relatives">Relatives: </string>
+    <string name="marvel_icon_url">https://www.freeiconspng.com/uploads/letter-m-icon-png-29.png</string>
+    <string name="dc_icon_url">https://i.pinimg.com/originals/cf/8b/23/cf8b2388dfcc1c8582e7828c799239ea.jpg</string>
+    <string name="unknown_studio_icon_url">https://thumbs.dreamstime.com/b/question-mark-vector-icon-ask-symbol-faq-help-pictogram-flat-sign-isolated-white-background-simple-illustration-graphic-130456629.jpg</string>
+    <string name="real_name">"Real name: "</string>
+    <string name="please_check_your_internet_connection">Please check your internet connection</string>
+    <string name="all_comics">All comics</string>
+</resources>
